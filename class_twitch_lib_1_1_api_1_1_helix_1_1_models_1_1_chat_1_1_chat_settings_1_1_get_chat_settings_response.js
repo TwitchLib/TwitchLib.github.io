@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_chat_settings_1_1_get_chat_settings_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_chat_settings_1_1_get_chat_settings_response.html#ac597ae286bd1b9c2b6707f7a80bc4f66", null ]
+];

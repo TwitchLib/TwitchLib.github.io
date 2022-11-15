@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward_redemptioc542b4521c3fa6f1418fb2cfac471a54 =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward_redemptioc542b4521c3fa6f1418fb2cfac471a54.html#ad0aeaf12b3b8d7b78a79545a9e416984", null ],
+    [ "Pagination", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward_redemptioc542b4521c3fa6f1418fb2cfac471a54.html#ac8afb0bc63903bf3b28262d36fae415f", null ]
+];

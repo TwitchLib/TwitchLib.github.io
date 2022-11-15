@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_predictions_1_1_get_predictions_1_1_get_predictions_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_predictions_1_1_get_predictions_1_1_get_predictions_response.html#a5d003a659bd8ac6e9ddbd343eaa5f0ad", null ],
+    [ "Pagination", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_predictions_1_1_get_predictions_1_1_get_predictions_response.html#a9cc4dffbb977d8664c63f6e363a7dc17", null ]
+];

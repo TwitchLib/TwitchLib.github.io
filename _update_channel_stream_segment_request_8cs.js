@@ -1,0 +1,4 @@
+var _update_channel_stream_segment_request_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.Schedule.UpdateChannelStreamSegment.UpdateChannelStreamSegmentRequest", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_update_channel_stream_segment_1_1c47476b550dd3124a5d9980fc8ad14f8.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_update_channel_stream_segment_1_1c47476b550dd3124a5d9980fc8ad14f8" ]
+];

@@ -1,0 +1,16 @@
+var namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel =
+[
+    [ "ChannelPoints", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points" ],
+    [ "Charity", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_charity.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_charity" ],
+    [ "Cheers", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_cheers.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_cheers" ],
+    [ "Follows", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_follows.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_follows" ],
+    [ "Goals", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_goals.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_goals" ],
+    [ "HypeTrains", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains" ],
+    [ "Moderation", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation" ],
+    [ "Moderators", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderators.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderators" ],
+    [ "Polls", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_polls.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_polls" ],
+    [ "Predictions", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions" ],
+    [ "Raids", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_raids.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_raids" ],
+    [ "Subscription", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_subscription.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_subscription" ],
+    [ "ChannelUpdateHandler", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_update_handler.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_update_handler" ]
+];

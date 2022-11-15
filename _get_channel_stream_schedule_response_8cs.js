@@ -1,0 +1,4 @@
+var _get_channel_stream_schedule_response_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.Schedule.GetChannelStreamSchedule.GetChannelStreamScheduleResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_get_channel_stream_schedule_1_1_g89a6e304e6ffa15f67ca464376222aba.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_get_channel_stream_schedule_1_1_g89a6e304e6ffa15f67ca464376222aba" ]
+];

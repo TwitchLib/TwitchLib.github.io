@@ -1,0 +1,11 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj =
+[
+    [ "EmoteObj", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisc5b051548f6cab2c80a8e40354cf2f41.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisc5b051548f6cab2c80a8e40354cf2f41" ],
+    [ "TagsObj", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#a5479dd4e6d9c96afcda067859e18cf78", null ],
+    [ "Badges", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#ac97d31595a8dc5877f3032b69bc827ba", null ],
+    [ "Emotes", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#a4b2e7df4f58ebc96afe94dd51db3b515", null ],
+    [ "Color", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#a6ec0f1b912d9566e58ca6fc20ca7295f", null ],
+    [ "DisplayName", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#a1be71bc975770490795484f76b1a200e", null ],
+    [ "Login", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#a9072e8ec1657e45574ee0bd87b9dbcb9", null ],
+    [ "UserType", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_tags_obj.html#a0cfe7f40456ed1c9a464aa1d155de6f1", null ]
+];

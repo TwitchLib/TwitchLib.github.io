@@ -1,0 +1,4 @@
+var _channel_points_custom_reward_remove_handler_8cs =
+[
+    [ "TwitchLib.EventSub.Websockets.Handler.Channel.ChannelPoints.CustomReward.ChannelPointsCustomRewardRemoveHandler", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cus8ed424f0f20b02112c34cfd6fecfd1fb.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cus8ed424f0f20b02112c34cfd6fecfd1fb" ]
+];

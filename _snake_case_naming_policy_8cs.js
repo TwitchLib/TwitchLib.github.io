@@ -1,0 +1,4 @@
+var _snake_case_naming_policy_8cs =
+[
+    [ "TwitchLib.EventSub.Websockets.Core.NamingPolicies.SnakeCaseNamingPolicy", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_core_1_1_naming_policies_1_1_snake_case_naming_policy.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_core_1_1_naming_policies_1_1_snake_case_naming_policy" ]
+];

@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_emotes_1_1_get_emote_sets_1_1_get_emote_sets_response =
+[
+    [ "EmoteSets", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_emotes_1_1_get_emote_sets_1_1_get_emote_sets_response.html#a532c23e06ffc150cb8c129f39c7af94d", null ],
+    [ "Template", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_emotes_1_1_get_emote_sets_1_1_get_emote_sets_response.html#a1cbf11addfed41fa91e9033027ca0513", null ]
+];

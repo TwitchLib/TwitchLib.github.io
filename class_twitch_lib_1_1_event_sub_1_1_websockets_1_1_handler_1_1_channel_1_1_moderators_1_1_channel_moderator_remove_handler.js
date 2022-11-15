@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderators_1_1_channel_moderator_remove_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderators_1_1_channel_moderator_remove_handler.html#a33d6cf9921de23c419590503dd6f1a19", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderators_1_1_channel_moderator_remove_handler.html#a0b1f71dcbc1b45136d0d592490009882", null ]
+];

@@ -1,0 +1,6 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_thread_1_1_spam_info_obj =
+[
+    [ "SpamInfoObj", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_thread_1_1_spam_info_obj.html#ad73a30d4b6eae959710160afa7103a5f", null ],
+    [ "LastMarkedNotSpam", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_thread_1_1_spam_info_obj.html#a60e39f472bd5aabb65ea931d30fd384b", null ],
+    [ "Likelihood", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_thread_1_1_spam_info_obj.html#a0e0bff8fab2f696306ca9b438e1c7b1a", null ]
+];

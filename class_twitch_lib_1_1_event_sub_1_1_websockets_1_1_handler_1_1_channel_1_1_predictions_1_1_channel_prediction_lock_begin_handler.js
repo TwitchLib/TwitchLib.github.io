@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions_1_1_channel_prediction_lock_begin_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions_1_1_channel_prediction_lock_begin_handler.html#ad21009b890a954f8429d3e7f729784e4", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions_1_1_channel_prediction_lock_begin_handler.html#abc3f973e1bfe57af7b8379c85ec5c5df", null ]
+];

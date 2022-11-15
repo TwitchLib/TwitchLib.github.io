@@ -1,0 +1,9 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj =
+[
+    [ "RecipientObj", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html#ae1e92a14d97f66eb8f7fec940b449733", null ],
+    [ "Color", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html#adc3f4f5214fe879db85731a1409749db", null ],
+    [ "DisplayName", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html#aef9f572e54e0975dd24bb4cee8e7e78a", null ],
+    [ "Id", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html#a41b188c89c18a957205afce92f13b243", null ],
+    [ "Username", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html#ac49d9aac144cbcbd655b949b40f2a4a9", null ],
+    [ "UserType", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html#ab4ecaf7fcc14fcb05ba1c6efaa4d3df2", null ]
+];

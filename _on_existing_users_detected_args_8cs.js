@@ -1,0 +1,4 @@
+var _on_existing_users_detected_args_8cs =
+[
+    [ "TwitchLib.Client.Events.OnExistingUsersDetectedArgs", "class_twitch_lib_1_1_client_1_1_events_1_1_on_existing_users_detected_args.html", "class_twitch_lib_1_1_client_1_1_events_1_1_on_existing_users_detected_args" ]
+];

@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_create_channel_stream_segment_1_1181a93fa76f30c9f940748203517870a =
+[
+    [ "Schedule", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_create_channel_stream_segment_1_1181a93fa76f30c9f940748203517870a.html#a29a681d3af025ba6317a932a498bcea1", null ]
+];

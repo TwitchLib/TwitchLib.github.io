@@ -1,0 +1,6 @@
+var searchData=
+[
+  ['join_0',['Join',['../class_twitch_lib_1_1_client_1_1_internal_1_1_rfc2812.html#af1d23c6659283e623362639590424c58',1,'TwitchLib.Client.Internal.Rfc2812.Join(string channel)'],['../class_twitch_lib_1_1_client_1_1_internal_1_1_rfc2812.html#ac9b573e851d516114cbe8c0ae30b3a2c',1,'TwitchLib.Client.Internal.Rfc2812.Join(string[] channels)'],['../class_twitch_lib_1_1_client_1_1_internal_1_1_rfc2812.html#ab32991255e3839b4adffcbd09ca4ef6b',1,'TwitchLib.Client.Internal.Rfc2812.Join(string channel, string key)'],['../class_twitch_lib_1_1_client_1_1_internal_1_1_rfc2812.html#addb050bf1405ecdcc42a4a16fcb638fb',1,'TwitchLib.Client.Internal.Rfc2812.Join(string[] channels, string[] keys)']]],
+  ['joinchannel_1',['JoinChannel',['../interface_twitch_lib_1_1_client_1_1_interfaces_1_1_i_twitch_client.html#afab0681c59509f051527eaca353e7f24',1,'TwitchLib.Client.Interfaces.ITwitchClient.JoinChannel()'],['../class_twitch_lib_1_1_client_1_1_twitch_client.html#ae8cfdc35e5939915ffd4c0ffe16382d1',1,'TwitchLib.Client.TwitchClient.JoinChannel()']]],
+  ['joinedchannel_2',['JoinedChannel',['../class_twitch_lib_1_1_client_1_1_models_1_1_joined_channel.html#a2f5255c9a30a2f87c586635e702dc63c',1,'TwitchLib::Client::Models::JoinedChannel']]]
+];

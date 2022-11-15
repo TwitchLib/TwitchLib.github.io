@@ -1,0 +1,4 @@
+var _channel_hype_train_begin_handler_8cs =
+[
+    [ "TwitchLib.EventSub.Websockets.Handler.Channel.HypeTrains.ChannelHypeTrainBeginHandler", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains_1_1_channel_hype_train_begin_handler.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains_1_1_channel_hype_train_begin_handler" ]
+];

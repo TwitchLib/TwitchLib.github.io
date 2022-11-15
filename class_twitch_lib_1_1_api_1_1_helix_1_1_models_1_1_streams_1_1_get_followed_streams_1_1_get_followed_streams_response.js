@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_streams_1_1_get_followed_streams_1_1_get_followed_streams_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_streams_1_1_get_followed_streams_1_1_get_followed_streams_response.html#a73eeaca27ed3335b348874d1f19bd726", null ],
+    [ "Pagination", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_streams_1_1_get_followed_streams_1_1_get_followed_streams_response.html#afafc7047b36bb3172862f133f013f4ee", null ]
+];

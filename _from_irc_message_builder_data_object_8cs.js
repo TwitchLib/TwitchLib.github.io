@@ -1,0 +1,4 @@
+var _from_irc_message_builder_data_object_8cs =
+[
+    [ "TwitchLib.Client.Models.Builders.FromIrcMessageBuilderDataObject", "class_twitch_lib_1_1_client_1_1_models_1_1_builders_1_1_from_irc_message_builder_data_object.html", "class_twitch_lib_1_1_client_1_1_models_1_1_builders_1_1_from_irc_message_builder_data_object" ]
+];

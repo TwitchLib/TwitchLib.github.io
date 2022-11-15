@@ -1,0 +1,9 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message =
+[
+    [ "ContentClassification", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message.html#aac250c15b77e87fab22e7af3da70fdbd", null ],
+    [ "Message", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message.html#ab95e8e70ccb76f1d122ceb9bfd0e9770", null ],
+    [ "ReasonCode", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message.html#aaff17a3a3e3b4304a774dad6e1a39082", null ],
+    [ "ResolverId", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message.html#af22dd844efcfa7a126d0749ca2b320cf", null ],
+    [ "ResolverLogin", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message.html#a6708bd4b70f7b89c214755168a03e937", null ],
+    [ "Status", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message_1_1_automod_caught_message.html#a16bdafae9f826ec209cf45a8b55e9bd8", null ]
+];

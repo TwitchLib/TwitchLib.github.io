@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_automod_settings_1_1_get_automod_settings_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_automod_settings_1_1_get_automod_settings_response.html#a595c0c71f74e91ae6014f61731a2246f", null ]
+];

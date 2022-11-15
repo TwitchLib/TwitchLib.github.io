@@ -1,0 +1,4 @@
+var _get_emote_sets_response_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.Chat.Emotes.GetEmoteSets.GetEmoteSetsResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_emotes_1_1_get_emote_sets_1_1_get_emote_sets_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_emotes_1_1_get_emote_sets_1_1_get_emote_sets_response" ]
+];

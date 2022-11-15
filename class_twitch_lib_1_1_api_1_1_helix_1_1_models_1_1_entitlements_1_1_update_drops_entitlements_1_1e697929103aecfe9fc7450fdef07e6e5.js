@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_update_drops_entitlements_1_1e697929103aecfe9fc7450fdef07e6e5 =
+[
+    [ "DropEntitlementUpdates", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_update_drops_entitlements_1_1e697929103aecfe9fc7450fdef07e6e5.html#a718d1d322b2073677ba355322130792b", null ]
+];

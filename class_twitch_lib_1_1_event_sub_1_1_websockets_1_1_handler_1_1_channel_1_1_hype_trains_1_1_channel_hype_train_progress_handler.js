@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains_1_1_channel_hype_train_progress_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains_1_1_channel_hype_train_progress_handler.html#a4fe828b189ab33e1a4d80a43ee3754ab", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_hype_trains_1_1_channel_hype_train_progress_handler.html#a9c5465babc0cec18cb2c0afb5ddb640d", null ]
+];

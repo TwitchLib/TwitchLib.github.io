@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation_1_1_channel_unban_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation_1_1_channel_unban_handler.html#a00638681369620dec379717f6034d5ab", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation_1_1_channel_unban_handler.html#a618bd77702a7afda548211b16787694b", null ]
+];

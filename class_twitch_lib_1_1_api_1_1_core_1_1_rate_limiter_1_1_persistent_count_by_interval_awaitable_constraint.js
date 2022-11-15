@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_core_1_1_rate_limiter_1_1_persistent_count_by_interval_awaitable_constraint =
+[
+    [ "PersistentCountByIntervalAwaitableConstraint", "class_twitch_lib_1_1_api_1_1_core_1_1_rate_limiter_1_1_persistent_count_by_interval_awaitable_constraint.html#aa52ae9fdc1d61b072b66846c781baacc", null ],
+    [ "OnEnded", "class_twitch_lib_1_1_api_1_1_core_1_1_rate_limiter_1_1_persistent_count_by_interval_awaitable_constraint.html#ad571d1c468d9d4202a12f58c76dbda85", null ]
+];

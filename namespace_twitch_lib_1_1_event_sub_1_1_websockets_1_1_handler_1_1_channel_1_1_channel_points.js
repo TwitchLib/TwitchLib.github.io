@@ -1,0 +1,5 @@
+var namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points =
+[
+    [ "CustomReward", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_custom_reward.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_custom_reward" ],
+    [ "Redemptions", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_redemptions.html", "namespace_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_redemptions" ]
+];

@@ -1,0 +1,4 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_get_channel_chat_badges =
+[
+    [ "GetChannelChatBadgesResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_get_channel_chat_badges_1_27f550079e448b1146f5f184530c2285.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_get_channel_chat_badges_1_27f550079e448b1146f5f184530c2285" ]
+];

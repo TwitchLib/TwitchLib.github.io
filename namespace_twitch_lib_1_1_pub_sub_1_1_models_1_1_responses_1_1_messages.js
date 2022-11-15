@@ -1,0 +1,27 @@
+var namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages =
+[
+    [ "AutomodCaughtMessage", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message.html", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_caught_message" ],
+    [ "Redemption", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption.html", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption" ],
+    [ "UserModerationNotifications", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notifications.html", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notifications" ],
+    [ "UserModerationNotificationsTypes", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notifications_types.html", "namespace_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notifications_types" ],
+    [ "AutomodQueue", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_queue.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_queue" ],
+    [ "AutomodQueueData", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_automod_queue_data.html", null ],
+    [ "ChannelBitsEvents", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_bits_events.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_bits_events" ],
+    [ "ChannelBitsEventsV2", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_bits_events_v2.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_bits_events_v2" ],
+    [ "ChannelExtensionBroadcast", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_extension_broadcast.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_extension_broadcast" ],
+    [ "ChannelPointsChannel", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_points_channel.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_points_channel" ],
+    [ "ChannelPointsData", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_points_data.html", null ],
+    [ "ChannelSubscription", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_subscription.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_channel_subscription" ],
+    [ "ChatModeratorActions", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_chat_moderator_actions.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_chat_moderator_actions" ],
+    [ "CommunityPointsChannel", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_community_points_channel.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_community_points_channel" ],
+    [ "Following", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_following.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_following" ],
+    [ "LeaderboardEvents", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_leaderboard_events.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_leaderboard_events" ],
+    [ "MessageData", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_message_data.html", null ],
+    [ "PredictionEvents", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_prediction_events.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_prediction_events" ],
+    [ "RaidEvents", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_raid_events.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_raid_events" ],
+    [ "SubMessage", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_sub_message.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_sub_message" ],
+    [ "User", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user" ],
+    [ "UserModerationNotificationsData", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notifications_data.html", null ],
+    [ "VideoPlayback", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_video_playback.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_video_playback" ],
+    [ "Whisper", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper" ]
+];

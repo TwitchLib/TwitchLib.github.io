@@ -1,0 +1,8 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal =
+[
+    [ "ActiveExtensions", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_active_extensions.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_active_extensions" ],
+    [ "ExtensionSlot", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_extension_slot.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_extension_slot" ],
+    [ "UserActiveExtension", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_user_active_extension.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_user_active_extension" ],
+    [ "UserExtension", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_user_extension.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_user_extension" ],
+    [ "UserExtensionState", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_user_extension_state.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_internal_1_1_user_extension_state" ]
+];

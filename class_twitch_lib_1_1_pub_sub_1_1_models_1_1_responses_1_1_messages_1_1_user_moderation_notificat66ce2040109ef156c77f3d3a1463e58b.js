@@ -1,0 +1,7 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b =
+[
+    [ "UserModerationNotifications", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b.html#ae5f13479e7a1e54c3e224e10222561f7", null ],
+    [ "Data", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b.html#ad09e81145e7aaa10ce2a1825a18db3bf", null ],
+    [ "RawData", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b.html#aa388bde70bbc355463cad83470e99b9d", null ],
+    [ "Type", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b.html#a0c0406a9ae50f9f51c4ac669571bc37a", null ]
+];

@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_video_overlay =
+[
+    [ "CanLinkExternalContent", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_video_overlay.html#a0d90376201ad781ec3df34f40403900c", null ],
+    [ "ViewerUrl", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_video_overlay.html#a93b2d1f440b51571609b6d8e2f5ad071", null ]
+];

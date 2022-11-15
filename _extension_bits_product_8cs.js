@@ -1,0 +1,4 @@
+var _extension_bits_product_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.Bits.ExtensionBitsProducts.ExtensionBitsProduct", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_bits_1_1_extension_bits_products_1_1_extension_bits_product.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_bits_1_1_extension_bits_products_1_1_extension_bits_product" ]
+];

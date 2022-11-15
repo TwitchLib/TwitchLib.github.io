@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_streams_1_1_create_stream_marker_1_1_create_stream_marker_request =
+[
+    [ "Description", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_streams_1_1_create_stream_marker_1_1_create_stream_marker_request.html#ab2cfa3a80c6bd3b237368af121cf81f5", null ],
+    [ "UserId", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_streams_1_1_create_stream_marker_1_1_create_stream_marker_request.html#ae239883626803281dba259ee4eef76af", null ]
+];

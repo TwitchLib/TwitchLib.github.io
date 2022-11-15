@@ -1,0 +1,27 @@
+var dir_ee6ff098588dd8bab278adc1a1aae014 =
+[
+    [ "AutomodCaughtMessage", "dir_96615e06c43094e7086652a7e97f722a.html", "dir_96615e06c43094e7086652a7e97f722a" ],
+    [ "Redemption", "dir_c0996b3b7d6c5e8521ce26af15140930.html", "dir_c0996b3b7d6c5e8521ce26af15140930" ],
+    [ "UserModerationNotificationsTypes", "dir_a82b4bbb2c7e6e998682fa75cc957bd9.html", "dir_a82b4bbb2c7e6e998682fa75cc957bd9" ],
+    [ "AutomodQueue.cs", "_automod_queue_8cs.html", "_automod_queue_8cs" ],
+    [ "AutomodQueueData.cs", "_automod_queue_data_8cs.html", "_automod_queue_data_8cs" ],
+    [ "ChannelBitsEvents.cs", "_channel_bits_events_8cs.html", "_channel_bits_events_8cs" ],
+    [ "ChannelBitsEventsV2.cs", "_channel_bits_events_v2_8cs.html", "_channel_bits_events_v2_8cs" ],
+    [ "ChannelExtensionBroadcast.cs", "_channel_extension_broadcast_8cs.html", "_channel_extension_broadcast_8cs" ],
+    [ "ChannelPointsChannel.cs", "_channel_points_channel_8cs.html", "_channel_points_channel_8cs" ],
+    [ "ChannelPointsData.cs", "_channel_points_data_8cs.html", "_channel_points_data_8cs" ],
+    [ "ChannelSubscription.cs", "_channel_subscription_8cs.html", "_channel_subscription_8cs" ],
+    [ "ChatModeratorActions.cs", "_chat_moderator_actions_8cs.html", "_chat_moderator_actions_8cs" ],
+    [ "CommunityPointsChannel.cs", "_community_points_channel_8cs.html", "_community_points_channel_8cs" ],
+    [ "Following.cs", "_following_8cs.html", "_following_8cs" ],
+    [ "LeaderboardEvents.cs", "_leaderboard_events_8cs.html", "_leaderboard_events_8cs" ],
+    [ "MessageData.cs", "_message_data_8cs.html", "_message_data_8cs" ],
+    [ "PredictionEvents.cs", "_prediction_events_8cs.html", "_prediction_events_8cs" ],
+    [ "RaidEvents.cs", "_raid_events_8cs.html", "_raid_events_8cs" ],
+    [ "SubMessage.cs", "_sub_message_8cs.html", "_sub_message_8cs" ],
+    [ "User.cs", "_twitch_lib_8_pub_sub_2_twitch_lib_8_pub_sub_2_models_2_responses_2_messages_2_user_8cs.html", "_twitch_lib_8_pub_sub_2_twitch_lib_8_pub_sub_2_models_2_responses_2_messages_2_user_8cs" ],
+    [ "UserModerationNotifications.cs", "_user_moderation_notifications_8cs.html", "_user_moderation_notifications_8cs" ],
+    [ "UserModerationNotificationsData.cs", "_user_moderation_notifications_data_8cs.html", "_user_moderation_notifications_data_8cs" ],
+    [ "VideoPlayback.cs", "_models_2_responses_2_messages_2_video_playback_8cs.html", "_models_2_responses_2_messages_2_video_playback_8cs" ],
+    [ "Whisper.cs", "_whisper_8cs.html", "_whisper_8cs" ]
+];

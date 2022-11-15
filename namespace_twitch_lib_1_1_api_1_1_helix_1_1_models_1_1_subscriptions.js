@@ -1,0 +1,7 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions =
+[
+    [ "CheckUserSubscriptionResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_check_user_subscription_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_check_user_subscription_response" ],
+    [ "GetBroadcasterSubscriptionsResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_get_broadcaster_subscriptions_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_get_broadcaster_subscriptions_response" ],
+    [ "GetUserSubscriptionsResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_get_user_subscriptions_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_get_user_subscriptions_response" ],
+    [ "Subscription", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_subscription.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_subscriptions_1_1_subscription" ]
+];

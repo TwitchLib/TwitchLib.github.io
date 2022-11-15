@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cus839f29238b438846fdcffef06728a76a =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cus839f29238b438846fdcffef06728a76a.html#a19d092586385748d9b1289eac69cc3de", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cus839f29238b438846fdcffef06728a76a.html#acb890bb1035579aa14e724e4abcca8ed", null ]
+];

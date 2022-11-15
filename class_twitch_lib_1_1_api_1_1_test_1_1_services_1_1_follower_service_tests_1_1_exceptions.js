@@ -1,0 +1,14 @@
+var class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions =
+[
+    [ "Ctor_Throws_ArgumentException_When_CacheSizeLessThanQueryCount", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#ab1f6a87757f3f4c3c5ff29f1911bb317", null ],
+    [ "Ctor_Throws_ArgumentException_When_CheckIntervalLowerThan1", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a7c8a6d75a5a2b7caa00a90a09716fad9", null ],
+    [ "Ctor_Throws_ArgumentException_When_QueryCountEquals0", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a656116f45c1758f8322b510840aca299", null ],
+    [ "Ctor_Throws_ArgumentException_When_QueryCountLargerThan100", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#aec96da7e7f2b078ee58ea596de2e43be", null ],
+    [ "SetChannelsById_Throws_ArgumentException_When_ChannelsArgumentEmpty", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a0c832e1fd208345df1ba45f31f5e1c56", null ],
+    [ "SetChannelsById_Throws_ArgumentNullException_When_ChannelsArgumentNull", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a80668541e8c5b54ec4dc80b7b5d29baf", null ],
+    [ "SetChannelsByName_Throws_ArgumentException_When_ChannelsArgumentEmpty", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#ac943f8ddb42a49493fb53cdf132ee0f0", null ],
+    [ "SetChannelsByName_Throws_ArgumentNullException_When_ChannelsArgumentNull", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a049ffebff45140a4de897adf6a5a99b7", null ],
+    [ "Start_Throws_InvalidOperationException_When_ChannelsNotSet", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a51198c1143bba942512727ce1d43c5bd", null ],
+    [ "Start_Throws_InvalidOperationException_When_ServiceAlreadyStarted", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#a52c9a11c16c8735048b051ad676ee583", null ],
+    [ "Stop_Throws_InvalidOperationException_When_ServiceAlreadyStopped", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html#aa97d08daa4f4a299440b032ce10b4e15", null ]
+];

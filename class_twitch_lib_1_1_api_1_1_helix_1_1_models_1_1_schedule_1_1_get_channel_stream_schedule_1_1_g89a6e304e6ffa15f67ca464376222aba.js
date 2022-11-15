@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_get_channel_stream_schedule_1_1_g89a6e304e6ffa15f67ca464376222aba =
+[
+    [ "Pagination", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_get_channel_stream_schedule_1_1_g89a6e304e6ffa15f67ca464376222aba.html#a456b9b29d3a734321a583a87de1d86b9", null ],
+    [ "Schedule", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_schedule_1_1_get_channel_stream_schedule_1_1_g89a6e304e6ffa15f67ca464376222aba.html#ae75d7f337dfa1edbb6c51354224fe083", null ]
+];

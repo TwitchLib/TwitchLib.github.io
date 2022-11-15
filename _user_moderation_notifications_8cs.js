@@ -1,0 +1,4 @@
+var _user_moderation_notifications_8cs =
+[
+    [ "TwitchLib.PubSub.Models.Responses.Messages.UserModerationNotifications.UserModerationNotifications", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b.html", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat66ce2040109ef156c77f3d3a1463e58b" ]
+];

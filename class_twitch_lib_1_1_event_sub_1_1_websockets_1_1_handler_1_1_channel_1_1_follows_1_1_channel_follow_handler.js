@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_follows_1_1_channel_follow_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_follows_1_1_channel_follow_handler.html#a4ddc7bebb4af223e8c312cf1f04934e2", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_follows_1_1_channel_follow_handler.html#ac945ddedef7c3e104a708985e3beb3b6", null ]
+];

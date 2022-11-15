@@ -1,0 +1,25 @@
+var class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification =
+[
+    [ "RaidNotification", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a210eb7ac6cda1b067b3af3decd67f54c", null ],
+    [ "RaidNotification", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a9f9afc9beea501162ae06b4c6bc956c4", null ],
+    [ "BadgeInfo", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a042e0d435b35a2467ce5262b77a2e787", null ],
+    [ "Badges", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a04ba126b8a0470eb3e8becdd5cf316a7", null ],
+    [ "Color", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#ad3ff236c7c04b39d0ecd0d0af2304538", null ],
+    [ "DisplayName", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a1b46b689ca663977ef22595d45285be1", null ],
+    [ "Emotes", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a6a4ec3a478ea737d274ad74ff32a3c68", null ],
+    [ "Id", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a4de8851d4248a033d283894dd49032a3", null ],
+    [ "Login", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#af709582778d38acd2a3004f854281564", null ],
+    [ "Moderator", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a073f7d462b2c1f193928121d1ebd58d9", null ],
+    [ "MsgId", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a9863505d96e8398447f5eb8d0c12e0b3", null ],
+    [ "MsgParamDisplayName", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a94cdb1a76a71010ea4e987add1dda4ba", null ],
+    [ "MsgParamLogin", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#ae8fd7d9f8b9ed8e7eba1a7b9c1929932", null ],
+    [ "MsgParamViewerCount", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a53aa9380b61106c9845588a9b26decdf", null ],
+    [ "RoomId", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#ad970e56fb38e81cc708c678c5006805d", null ],
+    [ "Subscriber", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#af611cdc3ffab059e1e14046102412230", null ],
+    [ "SystemMsg", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a59991680b4b5618725fe23598cdd5521", null ],
+    [ "SystemMsgParsed", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a66530e88bfe56d84e4309729588e3054", null ],
+    [ "TmiSentTs", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a4c63035f70f717aab28d7d32ad369811", null ],
+    [ "Turbo", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#aeeb675611ad8620f8bca4edc6451b5a7", null ],
+    [ "UserId", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#ad2204f6bb332087846e27c0015182544", null ],
+    [ "UserType", "class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html#a2b55c0a3c5819be7ae26a5a1a4160d9d", null ]
+];

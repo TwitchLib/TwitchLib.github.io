@@ -1,0 +1,26 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension =
+[
+    [ "AllowlistedConfigUrls", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#aa61bb5af74df1ae99a3b2c12372aa0ab", null ],
+    [ "AllowlistedPanelUrls", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#aa8392bfb7e0567bc38ddbb0e90d667fe", null ],
+    [ "AuthorName", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a1f39c940aafa67a43019e16f77ff09e8", null ],
+    [ "BitsEnabled", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a767bd76b7e84faa2949a72bac7180936", null ],
+    [ "CanInstall", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a8a39dbd50e8ca0488c551ff20d815340", null ],
+    [ "ConfigurationLocation", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a9409320ca78c0796fa18c889c5bdc17c", null ],
+    [ "Description", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a53ab20d4fa517631f27980b3a71b952c", null ],
+    [ "EulaTosUrl", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a5637180b87ead5188ae75860d7648ddf", null ],
+    [ "HasChatSupport", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a19a3af2d9fbb747d2bccc6b9d1ac9551", null ],
+    [ "IconUrl", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a5c2c1d638b56342753d6edd4d5e68fa5", null ],
+    [ "IconUrls", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a6b9cacd0aa66dff43d2d1231a2d4284a", null ],
+    [ "Id", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a3a0ab30367b453dba74413d97988aea1", null ],
+    [ "Name", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a2f25c00000c8904853c834c4603e0b81", null ],
+    [ "PrivacyPolicyUrl", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#aeee52311be40fb31d70de2850e2a0255", null ],
+    [ "RequestIdentityLink", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a9154dce75d23966b705f4dbf520dffd1", null ],
+    [ "ScreenshotUrls", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#abcabb3fbcb8b5582d3a3b63141fe966f", null ],
+    [ "State", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a480360374253bb7a5855cd3a51d1514c", null ],
+    [ "SubscriptionsSupportLevel", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#aa352f685bd2d95920c179052f5803672", null ],
+    [ "Summary", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#ab1332dd33239c439964eca9a2a8fb409", null ],
+    [ "SupportEmail", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#ae26de5c568362f43ce7015a55a9c8780", null ],
+    [ "Version", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a81e0756e66a74f686501777129da3038", null ],
+    [ "ViewerSummary", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#af06ccdc1e98545aeeed1cb0bb3e5646e", null ],
+    [ "Views", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html#a56d976b13afa07d6e3a3fd88c5c088b7", null ]
+];

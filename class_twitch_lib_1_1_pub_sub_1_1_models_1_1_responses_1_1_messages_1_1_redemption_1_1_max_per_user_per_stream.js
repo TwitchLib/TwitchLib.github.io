@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_max_per_user_per_stream =
+[
+    [ "IsEnabled", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_max_per_user_per_stream.html#a4baaab80ad04cf5b58a5ff8bc8bd0b25", null ],
+    [ "MaxPerUserPerStreamValue", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_max_per_user_per_stream.html#a05ca95666301fefaf8475bfcf3be232e", null ]
+];

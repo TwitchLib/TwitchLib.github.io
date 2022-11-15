@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_third_party_1_1_username_change_1_1_username_change_response =
+[
+    [ "UsernameChangeListings", "class_twitch_lib_1_1_api_1_1_third_party_1_1_username_change_1_1_username_change_response.html#a1cb7904a83587ec72275230bcdb5b3c4", null ]
+];

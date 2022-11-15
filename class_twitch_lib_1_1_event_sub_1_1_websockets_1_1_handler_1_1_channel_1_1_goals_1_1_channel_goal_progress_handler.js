@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_goals_1_1_channel_goal_progress_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_goals_1_1_channel_goal_progress_handler.html#accd2770b954492d087fe92cea54775ab", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_goals_1_1_channel_goal_progress_handler.html#a9df034aaa634a7afe120f403c0635e5b", null ]
+];

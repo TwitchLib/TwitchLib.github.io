@@ -1,0 +1,4 @@
+var _create_event_sub_subscription_response_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.EventSub.CreateEventSubSubscriptionResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_event_sub_1_1_create_event_sub_subscription_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_event_sub_1_1_create_event_sub_subscription_response" ]
+];

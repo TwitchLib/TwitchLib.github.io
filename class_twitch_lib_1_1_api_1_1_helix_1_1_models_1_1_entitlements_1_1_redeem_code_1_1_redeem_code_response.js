@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_redeem_code_1_1_redeem_code_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_redeem_code_1_1_redeem_code_response.html#a4a50fdf02be8f5edaeef4a8128246b0d", null ]
+];

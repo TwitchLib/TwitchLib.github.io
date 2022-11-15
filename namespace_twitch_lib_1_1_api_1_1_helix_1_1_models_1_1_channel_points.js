@@ -1,0 +1,17 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points =
+[
+    [ "CreateCustomReward", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward" ],
+    [ "GetCustomReward", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward" ],
+    [ "GetCustomRewardRedemption", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward_redemption.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_get_custom_reward_redemption" ],
+    [ "UpdateCustomReward", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_custom_reward.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_custom_reward" ],
+    [ "UpdateCustomRewardRedemptionStatus", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_custom_reward_redemption_status.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_custom_reward_redemption_status" ],
+    [ "UpdateRedemptionStatus", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_redemption_status.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_redemption_status" ],
+    [ "CustomReward", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_custom_reward.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_custom_reward" ],
+    [ "DefaultImage", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_default_image.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_default_image" ],
+    [ "GlobalCooldownSetting", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_global_cooldown_setting.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_global_cooldown_setting" ],
+    [ "Image", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_image.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_image" ],
+    [ "MaxPerStreamSetting", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_max_per_stream_setting.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_max_per_stream_setting" ],
+    [ "MaxPerUserPerStreamSetting", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_max_per_user_per_stream_setting.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_max_per_user_per_stream_setting" ],
+    [ "Reward", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_reward.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_reward" ],
+    [ "RewardRedemption", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_reward_redemption.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_reward_redemption" ]
+];

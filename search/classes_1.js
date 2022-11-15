@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['badgatewayexception_0',['BadGatewayException',['../class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_bad_gateway_exception.html',1,'TwitchLib::Api::Core::Exceptions']]],
+  ['badge_1',['Badge',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_badge.html',1,'TwitchLib::PubSub::Models::Responses::Messages::Whisper::DataObjWhisperReceived']]],
+  ['badgeemoteset_2',['BadgeEmoteSet',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_badge_emote_set.html',1,'TwitchLib::Api::Helix::Models::Chat::Badges']]],
+  ['badgeversion_3',['BadgeVersion',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_badge_version.html',1,'TwitchLib::Api::Helix::Models::Chat::Badges']]],
+  ['badlistenexception_4',['BadListenException',['../class_twitch_lib_1_1_client_1_1_exceptions_1_1_bad_listen_exception.html',1,'TwitchLib::Client::Exceptions']]],
+  ['badparameterexception_5',['BadParameterException',['../class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_bad_parameter_exception.html',1,'TwitchLib::Api::Core::Exceptions']]],
+  ['badrequestexception_6',['BadRequestException',['../class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_bad_request_exception.html',1,'TwitchLib::Api::Core::Exceptions']]],
+  ['badresourceexception_7',['BadResourceException',['../class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_bad_resource_exception.html',1,'TwitchLib::Api::Core::Exceptions']]],
+  ['badscopeexception_8',['BadScopeException',['../class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_bad_scope_exception.html',1,'TwitchLib::Api::Core::Exceptions']]],
+  ['badstateexception_9',['BadStateException',['../class_twitch_lib_1_1_client_1_1_exceptions_1_1_bad_state_exception.html',1,'TwitchLib::Client::Exceptions']]],
+  ['badtokenexception_10',['BadTokenException',['../class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_bad_token_exception.html',1,'TwitchLib::Api::Core::Exceptions']]],
+  ['bannedevent_11',['BannedEvent',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_get_banned_events_1_1_banned_event.html',1,'TwitchLib::Api::Helix::Models::Moderation::GetBannedEvents']]],
+  ['banneduser_12',['BannedUser',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_ban_user_1_1_banned_user.html',1,'TwitchLib::Api::Helix::Models::Moderation::BanUser']]],
+  ['banneduserevent_13',['BannedUserEvent',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_get_banned_users_1_1_banned_user_event.html',1,'TwitchLib::Api::Helix::Models::Moderation::GetBannedUsers']]],
+  ['banuser_14',['BanUser',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_ban_user_1_1_ban_user.html',1,'TwitchLib::Api::Helix::Models::Moderation::BanUser']]],
+  ['banuserrequest_15',['BanUserRequest',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_ban_user_1_1_ban_user_request.html',1,'TwitchLib::Api::Helix::Models::Moderation::BanUser']]],
+  ['banuserresponse_16',['BanUserResponse',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_ban_user_1_1_ban_user_response.html',1,'TwitchLib::Api::Helix::Models::Moderation::BanUser']]],
+  ['bits_17',['Bits',['../class_twitch_lib_1_1_api_1_1_helix_1_1_bits.html',1,'TwitchLib::Api::Helix']]],
+  ['blockedterm_18',['BlockedTerm',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_blocked_term.html',1,'TwitchLib::Api::Helix::Models::Moderation::BlockedTerms']]],
+  ['blockeduser_19',['BlockedUser',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_get_user_block_list_1_1_blocked_user.html',1,'TwitchLib::Api::Helix::Models::Users::GetUserBlockList']]],
+  ['bypasslimiter_20',['BypassLimiter',['../class_twitch_lib_1_1_api_1_1_core_1_1_rate_limiter_1_1_bypass_limiter.html',1,'TwitchLib::Api::Core::RateLimiter']]]
+];

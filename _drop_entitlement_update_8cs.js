@@ -1,0 +1,4 @@
+var _drop_entitlement_update_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.Entitlements.UpdateDropsEntitlements.DropEntitlementUpdate", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_update_drops_entitlements_1_1_drop_entitlement_update.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_update_drops_entitlements_1_1_drop_entitlement_update" ]
+];

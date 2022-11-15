@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_videos_1_1_delete_videos_1_1_delete_videos_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_videos_1_1_delete_videos_1_1_delete_videos_response.html#ab6a148bda9e2fcfc962febef369c0aa2", null ]
+];

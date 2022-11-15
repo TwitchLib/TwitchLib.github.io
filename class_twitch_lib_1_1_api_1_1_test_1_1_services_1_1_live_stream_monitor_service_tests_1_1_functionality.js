@@ -1,0 +1,11 @@
+var class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality =
+[
+    [ "LiveStreams_Contains_UserId_When_ServiceUpdated", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a335926265ac8e1ffc4266448e0819fe5", null ],
+    [ "OnChannelsSet_Raised_When_ChannelsSet", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a82107a09de76472ff2be5bb0b05dbbd6", null ],
+    [ "OnServiceStarted_Raised_When_ServiceStarted", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a9c6337de4596d8035cb76bae1df8906a", null ],
+    [ "OnServiceStopped_Raised_When_ServiceStopped", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a2b1157d41a179a86ccb82b72e9ee049e", null ],
+    [ "OnServiceTick_Raised_When_ServiceTicked", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a83148592e25da6937980683ce8df4d37", null ],
+    [ "OnStreamOffline_Called_When_StreamWentOffline", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#acc4086f2df9258038f992f10e635a2bd", null ],
+    [ "OnStreamOnline_Called_When_StreamWentOnline", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a06a4aec5189d2bb2f2382496182a508e", null ],
+    [ "OnStreamUpdate_Called_When_StreamAlreadyOnline", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_live_stream_monitor_service_tests_1_1_functionality.html#a29a2000b36e6a83d8820f25f74d76bad", null ]
+];

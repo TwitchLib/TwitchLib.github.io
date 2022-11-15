@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_get_global_chat_badges_1_14612f93558962e2a1c2811f9a1643ea7 =
+[
+    [ "EmoteSet", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_chat_1_1_badges_1_1_get_global_chat_badges_1_14612f93558962e2a1c2811f9a1643ea7.html#a764ab9a16ac07bd1c23974d5ea9765ed", null ]
+];

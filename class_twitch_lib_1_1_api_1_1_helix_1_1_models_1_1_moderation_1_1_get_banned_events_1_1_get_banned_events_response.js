@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_get_banned_events_1_1_get_banned_events_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_get_banned_events_1_1_get_banned_events_response.html#aa0419471601f6b9c51670ee1993a1e6e", null ],
+    [ "Pagination", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_get_banned_events_1_1_get_banned_events_response.html#a5efba20c1ad7ec8d5bcb78d8a4b409ba", null ]
+];

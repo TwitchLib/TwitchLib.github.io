@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_client_id_and_o_auth_token_required =
+[
+    [ "ClientIdAndOAuthTokenRequired", "class_twitch_lib_1_1_api_1_1_core_1_1_exceptions_1_1_client_id_and_o_auth_token_required.html#ae7f34ef1efe60b4958184d28c236578c", null ]
+];

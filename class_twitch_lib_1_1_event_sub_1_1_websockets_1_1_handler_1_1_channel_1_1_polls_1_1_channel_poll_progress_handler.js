@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_polls_1_1_channel_poll_progress_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_polls_1_1_channel_poll_progress_handler.html#aa62841541cf6feedfdcb173da4e4ac6c", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_polls_1_1_channel_poll_progress_handler.html#a890c0e257001220cb08add3061eb0114", null ]
+];

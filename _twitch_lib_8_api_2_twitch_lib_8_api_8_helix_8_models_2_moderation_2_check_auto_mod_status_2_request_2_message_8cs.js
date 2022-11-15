@@ -1,0 +1,4 @@
+var _twitch_lib_8_api_2_twitch_lib_8_api_8_helix_8_models_2_moderation_2_check_auto_mod_status_2_request_2_message_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.Moderation.CheckAutoModStatus.Message", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_check_auto_mod_status_1_1_message.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_check_auto_mod_status_1_1_message" ]
+];

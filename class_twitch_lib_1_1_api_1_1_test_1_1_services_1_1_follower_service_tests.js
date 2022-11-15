@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests =
+[
+    [ "Exceptions", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions.html", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_exceptions" ],
+    [ "Functionality", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_functionality.html", "class_twitch_lib_1_1_api_1_1_test_1_1_services_1_1_follower_service_tests_1_1_functionality" ]
+];

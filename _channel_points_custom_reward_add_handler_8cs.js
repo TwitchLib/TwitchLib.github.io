@@ -1,0 +1,4 @@
+var _channel_points_custom_reward_add_handler_8cs =
+[
+    [ "TwitchLib.EventSub.Websockets.Handler.Channel.ChannelPoints.CustomReward.ChannelPointsCustomRewardAddHandler", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cusbe39d40842ec8c700677c07e8d2dacf6.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_channel_points_1_1_cusbe39d40842ec8c700677c07e8d2dacf6" ]
+];

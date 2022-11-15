@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_charity_1_1_channel_charity_campaign_donate_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_charity_1_1_channel_charity_campaign_donate_handler.html#a9a6b3c6abf0bc12fc4d872a406a487cc", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_charity_1_1_channel_charity_campaign_donate_handler.html#a84fd56ca24b675e75648034b035118fd", null ]
+];

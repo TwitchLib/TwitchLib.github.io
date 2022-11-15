@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['raid_0',['Raid',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_raids_1_1_raid.html',1,'TwitchLib::Api::Helix::Models::Raids']]],
+  ['raidevents_1',['RaidEvents',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_raid_events.html',1,'TwitchLib::PubSub::Models::Responses::Messages']]],
+  ['raidnotification_2',['RaidNotification',['../class_twitch_lib_1_1_client_1_1_models_1_1_raid_notification.html',1,'TwitchLib::Client::Models']]],
+  ['raidnotificationbuilder_3',['RaidNotificationBuilder',['../class_twitch_lib_1_1_client_1_1_models_1_1_builders_1_1_raid_notification_builder.html',1,'TwitchLib::Client::Models::Builders']]],
+  ['raids_4',['Raids',['../class_twitch_lib_1_1_api_1_1_helix_1_1_raids.html',1,'TwitchLib::Api::Helix']]],
+  ['recipientobj_5',['RecipientObj',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_recipient_obj.html',1,'TwitchLib::PubSub::Models::Responses::Messages::Whisper::DataObjWhisperReceived']]],
+  ['redeemcoderesponse_6',['RedeemCodeResponse',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_redeem_code_1_1_redeem_code_response.html',1,'TwitchLib::Api::Helix::Models::Entitlements::RedeemCode']]],
+  ['redemption_7',['Redemption',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_redemption.html',1,'TwitchLib::PubSub::Models::Responses::Messages::Redemption']]],
+  ['redemptionimage_8',['RedemptionImage',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_redemption_image.html',1,'TwitchLib::PubSub::Models::Responses::Messages::Redemption']]],
+  ['refreshresponse_9',['RefreshResponse',['../class_twitch_lib_1_1_api_1_1_auth_1_1_refresh_response.html',1,'TwitchLib::Api::Auth']]],
+  ['refreshtokenresponse_10',['RefreshTokenResponse',['../class_twitch_lib_1_1_api_1_1_third_party_1_1_authorization_flow_1_1_refresh_token_response.html',1,'TwitchLib::Api::ThirdParty::AuthorizationFlow']]],
+  ['releasedextension_11',['ReleasedExtension',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_released_extension.html',1,'TwitchLib::Api::Helix::Models::Extensions::ReleasedExtensions']]],
+  ['requestmodel_12',['RequestModel',['../class_twitch_lib_1_1_api_1_1_core_1_1_models_1_1_request_model.html',1,'TwitchLib::Api::Core::Models']]],
+  ['response_13',['Response',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_response.html',1,'TwitchLib::PubSub::Models::Responses']]],
+  ['resubscriber_14',['ReSubscriber',['../class_twitch_lib_1_1_client_1_1_models_1_1_re_subscriber.html',1,'TwitchLib::Client::Models']]],
+  ['resubscriberbuilder_15',['ReSubscriberBuilder',['../class_twitch_lib_1_1_client_1_1_models_1_1_builders_1_1_re_subscriber_builder.html',1,'TwitchLib::Client::Models::Builders']]],
+  ['revocationargs_16',['RevocationArgs',['../class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_core_1_1_event_args_1_1_revocation_args.html',1,'TwitchLib::EventSub::Websockets::Core::EventArgs']]],
+  ['revocationhandler_17',['RevocationHandler',['../class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_revocation_handler.html',1,'TwitchLib::EventSub::Websockets::Handler']]],
+  ['reward_18',['Reward',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_reward.html',1,'TwitchLib.Api.Helix.Models.ChannelPoints.Reward'],['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_reward.html',1,'TwitchLib.PubSub.Models.Responses.Messages.Redemption.Reward']]],
+  ['rewardredeemed_19',['RewardRedeemed',['../class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_redemption_1_1_reward_redeemed.html',1,'TwitchLib::PubSub::Models::Responses::Messages::Redemption']]],
+  ['rewardredemption_20',['RewardRedemption',['../class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_reward_redemption.html',1,'TwitchLib::Api::Helix::Models::ChannelPoints']]],
+  ['rfc2812_21',['Rfc2812',['../class_twitch_lib_1_1_client_1_1_internal_1_1_rfc2812.html',1,'TwitchLib::Client::Internal']]],
+  ['ritualnewchatter_22',['RitualNewChatter',['../class_twitch_lib_1_1_client_1_1_models_1_1_ritual_new_chatter.html',1,'TwitchLib::Client::Models']]],
+  ['ritualnewchatterbuilder_23',['RitualNewChatterBuilder',['../class_twitch_lib_1_1_client_1_1_models_1_1_builders_1_1_ritual_new_chatter_builder.html',1,'TwitchLib::Client::Models::Builders']]]
+];

@@ -1,0 +1,7 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions =
+[
+    [ "Cost", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_cost.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_cost" ],
+    [ "GetExtensionTransactionsResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_get_extension_transactions_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_get_extension_transactions_response" ],
+    [ "ProductData", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_product_data.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_product_data" ],
+    [ "Transaction", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_transaction.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_transactions_1_1_transaction" ]
+];

@@ -1,0 +1,4 @@
+var _twitch_lib_8_event_sub_8_websockets_2_twitch_lib_8_event_sub_8_websockets_2_core_2_models_2_event_sub_transport_8cs =
+[
+    [ "TwitchLib.EventSub.Websockets.Core.Models.EventSubTransport", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_core_1_1_models_1_1_event_sub_transport.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_core_1_1_models_1_1_event_sub_transport" ]
+];

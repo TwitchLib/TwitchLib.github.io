@@ -1,0 +1,4 @@
+var _failure_to_receive_join_confirmation_exception_8cs =
+[
+    [ "TwitchLib.Client.Exceptions.FailureToReceiveJoinConfirmationException", "class_twitch_lib_1_1_client_1_1_exceptions_1_1_failure_to_receive_join_confirmation_exception.html", "class_twitch_lib_1_1_client_1_1_exceptions_1_1_failure_to_receive_join_confirmation_exception" ]
+];

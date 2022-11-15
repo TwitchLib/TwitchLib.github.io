@@ -1,0 +1,7 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train =
+[
+    [ "GetHypeTrainResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_get_hype_train_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_get_hype_train_response" ],
+    [ "HypeTrain", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_hype_train.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_hype_train" ],
+    [ "HypeTrainContribution", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_hype_train_contribution.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_hype_train_contribution" ],
+    [ "HypeTrainEventData", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_hype_train_event_data.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_hype_train_1_1_hype_train_event_data" ]
+];

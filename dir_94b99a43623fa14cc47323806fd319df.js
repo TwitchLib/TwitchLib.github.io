@@ -1,0 +1,26 @@
+var dir_94b99a43623fa14cc47323806fd319df =
+[
+    [ "ApiVersion.cs", "_api_version_8cs.html", "_api_version_8cs" ],
+    [ "AuthScopesEnum.cs", "_auth_scopes_enum_8cs.html", "_auth_scopes_enum_8cs" ],
+    [ "BadgeColor.cs", "_twitch_lib_8_api_2_twitch_lib_8_api_8_core_8_enums_2_badge_color_8cs.html", "_twitch_lib_8_api_2_twitch_lib_8_api_8_core_8_enums_2_badge_color_8cs" ],
+    [ "BitsLeaderboardPeriodEnum.cs", "_bits_leaderboard_period_enum_8cs.html", "_bits_leaderboard_period_enum_8cs" ],
+    [ "BlockUserReasonEnum.cs", "_block_user_reason_enum_8cs.html", "_block_user_reason_enum_8cs" ],
+    [ "BlockUserSourceContextEnum.cs", "_block_user_source_context_enum_8cs.html", "_block_user_source_context_enum_8cs" ],
+    [ "CodeStatusEnum.cs", "_code_status_enum_8cs.html", "_code_status_enum_8cs" ],
+    [ "CustomRewardRedemptionStatusEnum.cs", "_custom_reward_redemption_status_enum_8cs.html", "_custom_reward_redemption_status_enum_8cs" ],
+    [ "DropEntitlementUpdateStatus.cs", "_drop_entitlement_update_status_8cs.html", "_drop_entitlement_update_status_8cs" ],
+    [ "EventSubTransportMethod.cs", "_event_sub_transport_method_8cs.html", "_event_sub_transport_method_8cs" ],
+    [ "ExtensionStateEnum.cs", "_extension_state_enum_8cs.html", "_extension_state_enum_8cs" ],
+    [ "ExtensionTypeEnum.cs", "_extension_type_enum_8cs.html", "_extension_type_enum_8cs" ],
+    [ "FulfillmentStatus.cs", "_fulfillment_status_8cs.html", "_fulfillment_status_8cs" ],
+    [ "LogType.cs", "_log_type_8cs.html", "_log_type_8cs" ],
+    [ "ManageHeldAutoModMessageAction.cs", "_manage_held_auto_mod_message_action_8cs.html", "_manage_held_auto_mod_message_action_8cs" ],
+    [ "Period.cs", "_period_8cs.html", "_period_8cs" ],
+    [ "PollStatusEnum.cs", "_poll_status_enum_8cs.html", "_poll_status_enum_8cs" ],
+    [ "PredictionEndStatusEnum.cs", "_prediction_end_status_enum_8cs.html", "_prediction_end_status_enum_8cs" ],
+    [ "PredictionStatusEnum.cs", "_prediction_status_enum_8cs.html", "_prediction_status_enum_8cs" ],
+    [ "StringEnum.cs", "_twitch_lib_8_api_2_twitch_lib_8_api_8_core_8_enums_2_string_enum_8cs.html", "_twitch_lib_8_api_2_twitch_lib_8_api_8_core_8_enums_2_string_enum_8cs" ],
+    [ "UserType.cs", "_twitch_lib_8_api_2_twitch_lib_8_api_8_core_8_enums_2_user_type_8cs.html", "_twitch_lib_8_api_2_twitch_lib_8_api_8_core_8_enums_2_user_type_8cs" ],
+    [ "VideoSort.cs", "_video_sort_8cs.html", "_video_sort_8cs" ],
+    [ "VideoType.cs", "_video_type_8cs.html", "_video_type_8cs" ]
+];

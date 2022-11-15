@@ -1,0 +1,4 @@
+var _channel_ban_handler_8cs =
+[
+    [ "TwitchLib.EventSub.Websockets.Handler.Channel.Moderation.ChannelBanHandler", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation_1_1_channel_ban_handler.html", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_moderation_1_1_channel_ban_handler" ]
+];

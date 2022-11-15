@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_soundtrack_1_1_get_current_track_1_1_get_current_track_response =
+[
+    [ "Data", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_soundtrack_1_1_get_current_track_1_1_get_current_track_response.html#a39e5b2169daf073475b9938c9d813942", null ]
+];

@@ -1,0 +1,6 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_update_user_extensions_1_1_update_user_extensions_request =
+[
+    [ "Component", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_update_user_extensions_1_1_update_user_extensions_request.html#ad2b88e58c64f7614abd0c89dcee6faa5", null ],
+    [ "Overlay", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_update_user_extensions_1_1_update_user_extensions_request.html#a64588abb3681717ae9e1ddbb08f6cef8", null ],
+    [ "Panel", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_users_1_1_update_user_extensions_1_1_update_user_extensions_request.html#a03119d3a00ec701238860246845e9dba", null ]
+];

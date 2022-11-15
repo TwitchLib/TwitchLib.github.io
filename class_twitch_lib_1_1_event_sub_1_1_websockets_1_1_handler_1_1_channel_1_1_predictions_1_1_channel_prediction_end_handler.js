@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions_1_1_channel_prediction_end_handler =
+[
+    [ "Handle", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions_1_1_channel_prediction_end_handler.html#ab8b31bac38856faffaed1bb4f76ee0db", null ],
+    [ "SubscriptionType", "class_twitch_lib_1_1_event_sub_1_1_websockets_1_1_handler_1_1_channel_1_1_predictions_1_1_channel_prediction_end_handler.html#aa94164bbbba8359e9cf960abc42ae87e", null ]
+];

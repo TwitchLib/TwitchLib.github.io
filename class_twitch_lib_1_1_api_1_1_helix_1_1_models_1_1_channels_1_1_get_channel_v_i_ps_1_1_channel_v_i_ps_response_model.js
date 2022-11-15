@@ -1,0 +1,6 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_v_i_ps_1_1_channel_v_i_ps_response_model =
+[
+    [ "UserId", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_v_i_ps_1_1_channel_v_i_ps_response_model.html#a3c2ba5825b8875652ae6089ee409a679", null ],
+    [ "UserLogin", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_v_i_ps_1_1_channel_v_i_ps_response_model.html#a3bcf388e8d1a385ce2ea03e2492e1895", null ],
+    [ "UserName", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_v_i_ps_1_1_channel_v_i_ps_response_model.html#a11d81c83f8fc4481eef7ddc91ff68a16", null ]
+];

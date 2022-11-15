@@ -1,0 +1,6 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_badge =
+[
+    [ "Badge", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_badge.html#a654e8c4168883b15b978cc8c6c8cfd07", null ],
+    [ "Id", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_badge.html#ab4e61f41ec7a8b267e88005e231be6b8", null ],
+    [ "Version", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_whisper_1_1_data_obj_whisper_received_1_1_badge.html#a93d7b5790061049f9697d531dd5302db", null ]
+];

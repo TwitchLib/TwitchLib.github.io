@@ -1,0 +1,4 @@
+var namespace_twitch_lib_1_1_api_1_1_services_1_1_events_1_1_follower_service =
+[
+    [ "OnNewFollowersDetectedArgs", "class_twitch_lib_1_1_api_1_1_services_1_1_events_1_1_follower_service_1_1_on_new_followers_detected_args.html", "class_twitch_lib_1_1_api_1_1_services_1_1_events_1_1_follower_service_1_1_on_new_followers_detected_args" ]
+];

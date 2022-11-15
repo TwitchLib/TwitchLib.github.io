@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_get_drops_entitlements_1_1_get_drops_entitlements_response =
+[
+    [ "DropEntitlements", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_get_drops_entitlements_1_1_get_drops_entitlements_response.html#af2e4537dc2f1bb188903fc8a9d2a72f9", null ],
+    [ "Pagination", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_entitlements_1_1_get_drops_entitlements_1_1_get_drops_entitlements_response.html#a623c26439a555c9f59a7f2195114ff81", null ]
+];

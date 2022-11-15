@@ -1,0 +1,16 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request =
+[
+    [ "BackgroundColor", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#ad1bae2698e1a94909d814718a785fa91", null ],
+    [ "Cost", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a2f206f7f5252524ab9401b7884be80f6", null ],
+    [ "GlobalCooldownSeconds", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a5595f1a8855109ce831188c85771d341", null ],
+    [ "IsEnabled", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a1a62507c4654fcb1fa275383b455dd52", null ],
+    [ "IsGlobalCooldownEnabled", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a1fc841757464dca6ec074fbacb9078ee", null ],
+    [ "IsMaxPerStreamEnabled", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#ab6657a8722e0d886be7d72ee4bb26441", null ],
+    [ "IsMaxPerUserPerStreamEnabled", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a40665d4cb006233372daa0b855ee47ce", null ],
+    [ "IsUserInputRequired", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#afa801b08904b30d2acffa16e0e057b6f", null ],
+    [ "MaxPerStream", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a3864dc32657867d8616bef2e6312a878", null ],
+    [ "MaxPerUserPerStream", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a8bee6f956b751b87cf406d97a7a01c02", null ],
+    [ "Prompt", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a5b3ebf550869a4487ee844a2a1a7c748", null ],
+    [ "ShouldRedemptionsSkipRequestQueue", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a0f995541da537bdd12f83354a9ddd6dd", null ],
+    [ "Title", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_create_custom_reward_1_1_create_custom_rewards_request.html#a44c3beaa3945d27e48784ab3c1372585", null ]
+];

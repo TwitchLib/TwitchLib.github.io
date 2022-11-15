@@ -1,0 +1,5 @@
+var class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat667d23def2ce174d47e087888807f48b =
+[
+    [ "MessageId", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat667d23def2ce174d47e087888807f48b.html#a749670505cb6314a5dd49326bc03d1c4", null ],
+    [ "Status", "class_twitch_lib_1_1_pub_sub_1_1_models_1_1_responses_1_1_messages_1_1_user_moderation_notificat667d23def2ce174d47e087888807f48b.html#a9811360754fc63037bec002f7d86288e", null ]
+];

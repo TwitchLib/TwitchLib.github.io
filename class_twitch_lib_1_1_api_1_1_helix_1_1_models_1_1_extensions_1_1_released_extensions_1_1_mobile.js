@@ -1,0 +1,4 @@
+var class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_mobile =
+[
+    [ "ViewerUrl", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_extensions_1_1_released_extensions_1_1_mobile.html#a7867616926bef98d7a21a04c3356fde9", null ]
+];

@@ -1,0 +1,6 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms =
+[
+    [ "AddBlockedTermResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_add_blocked_term_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_add_blocked_term_response" ],
+    [ "BlockedTerm", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_blocked_term.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_blocked_term" ],
+    [ "GetBlockedTermsResponse", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_get_blocked_terms_response.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_moderation_1_1_blocked_terms_1_1_get_blocked_terms_response" ]
+];

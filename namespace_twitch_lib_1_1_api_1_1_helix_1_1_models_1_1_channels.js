@@ -1,0 +1,7 @@
+var namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels =
+[
+    [ "GetChannelEditors", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_editors.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_editors" ],
+    [ "GetChannelInformation", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_information.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_information" ],
+    [ "GetChannelVIPs", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_v_i_ps.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_get_channel_v_i_ps" ],
+    [ "ModifyChannelInformation", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_modify_channel_information.html", "namespace_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channels_1_1_modify_channel_information" ]
+];

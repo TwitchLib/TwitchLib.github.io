@@ -1,0 +1,4 @@
+var _update_custom_reward_redemption_status_request_8cs =
+[
+    [ "TwitchLib.Api.Helix.Models.ChannelPoints.UpdateCustomRewardRedemptionStatus.UpdateCustomRewardRedemptionStatusRequest", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_custom_reward_redemp7d0c4e4b73a1c00b73376455fd9fb401.html", "class_twitch_lib_1_1_api_1_1_helix_1_1_models_1_1_channel_points_1_1_update_custom_reward_redemp7d0c4e4b73a1c00b73376455fd9fb401" ]
+];

@@ -1,0 +1,26 @@
+var namespace_twitch_lib_1_1_api_1_1_core_1_1_enums =
+[
+    [ "StringEnum", "class_twitch_lib_1_1_api_1_1_core_1_1_enums_1_1_string_enum.html", "class_twitch_lib_1_1_api_1_1_core_1_1_enums_1_1_string_enum" ],
+    [ "ApiVersion", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a0904ca81296f9b73acc3244da5a944ae", null ],
+    [ "AuthScopes", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a5ca6bc3dc40ba5da207a9491daa44d3b", null ],
+    [ "BadgeColor", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#aba286924b29237c50828145499ada56b", null ],
+    [ "BitsLeaderboardPeriodEnum", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#ab4698a8dead267764d9ea840cb77af6b", null ],
+    [ "BlockUserReasonEnum", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#abfea1ea2cb1db60f7a7c78ac63e758fa", null ],
+    [ "BlockUserSourceContextEnum", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#aacd22de8a31d025b95d6e976e2332455", null ],
+    [ "CodeStatusEnum", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#ae51ac2c4fe0294344f561016e6bfe9e2", null ],
+    [ "CustomRewardRedemptionStatus", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a7fcaa41c3cb2365eabb0ba26da1de500", null ],
+    [ "DropEntitlementUpdateStatus", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a45c17304bcc77e5ac109c08aea51ad1b", null ],
+    [ "EventSubTransportMethod", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#aab26b5cd45b45b674b506131c9e9b705", null ],
+    [ "ExtensionState", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a5f8689deb4774beb2cc1b12c204b04f1", null ],
+    [ "ExtensionType", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#ae08792961ebca79b241ab70fa43b89b5", null ],
+    [ "FulfillmentStatus", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a122e51791f739ba89ed0abb558d4d9cd", null ],
+    [ "LogType", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#aca0aee8944d7616103597edf112cc156", null ],
+    [ "ManageHeldAutoModMessageActionEnum", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#abfe3d420701cb4543f62502dcd49849b", null ],
+    [ "Period", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#adefbcd8f787d0dbf2f59d227425f9112", null ],
+    [ "PollStatusEnum", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a1d60df113d502fb3b7f4d28f2e7f88a0", null ],
+    [ "PredictionEndStatus", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#a898009ea5d6936c029403c80cf1537dc", null ],
+    [ "PredictionStatus", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#acea878539d7b75f382f2a6d0f0ab31ba", null ],
+    [ "UserType", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#afd756ef327f4c4f5bd12544c01a3c02b", null ],
+    [ "VideoSort", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#aef3e0f783c083abe818598408d431ef0", null ],
+    [ "VideoType", "namespace_twitch_lib_1_1_api_1_1_core_1_1_enums.html#acc966e3ba52f1ed45eb170c42825000c", null ]
+];
